@@ -1,1 +1,2 @@
 # ToDoList
+これはGithubのIssueを利用したToDoリストを管理するリポジトリです．
